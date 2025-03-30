@@ -1,4 +1,4 @@
-1st day of learning how to program in python! 
+1st day of learning how to code in python! 
 
 Some things that I have known and reinforced: 
 print ("") 
